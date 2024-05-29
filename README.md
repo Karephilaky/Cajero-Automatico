@@ -1,6 +1,3 @@
-# UpdateBalance
-Trabajo en clase, corrección de código
-
 # Cajero Automático Python
 
 Este es un proyecto que simula un cajero automático implementado en Python. Permite a los usuarios realizar operaciones básicas como depositar, retirar y verificar el saldo en cuentas bancarias.
@@ -16,11 +13,11 @@ Este caso práctico se centra en una corrección del código original para mejor
 
 ### Código Arreglado
 
-El código arreglado se encuentra en el archivo `update_balance.py`. Puedes revisar el código para obtener más detalles sobre la implementación corregida.
+El código arreglado se encuentra en el archivo `caso3.py`. Puedes revisar el código para obtener más detalles sobre la implementación corregida.
 
 ### Ejecución del Programa
 
-Para ejecutar el programa, simplemente ejecuta el archivo Python `update_balance.py`. Se presentará un menú con las opciones disponibles para interactuar con el cajero automático. Sigue las instrucciones en pantalla para realizar las operaciones deseadas.
+Para ejecutar el programa, simplemente ejecuta el archivo Python `caso3.py`. Se presentará un menú con las opciones disponibles para interactuar con el cajero automático. Sigue las instrucciones en pantalla para realizar las operaciones deseadas.
 
 ## Contribuciones
 
