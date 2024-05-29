@@ -1,7 +1,6 @@
 # Cajero Automático Python
 
-Este es un proyecto que simula un cajero automático implementado en Python. Permite a los usuarios realizar operaciones básicas como depositar, retirar y verificar el saldo en cuentas bancarias.
-Esta mejora se realizó en el contexto de la asignatura de Calidad de Software de la carrera de Ingeniería en Software de la Pontificia Universidad Católica del Ecuador, sede Manabí.
+Este es un proyecto que simula un cajero automático implementado en Python. Permite a los usuarios realizar operaciones básicas como depositar, retirar y verificar el saldo en cuentas bancarias. Esta mejora se realizó en el contexto de la asignatura de Calidad de Software de la carrera de Ingeniería en Software de la Pontificia Universidad Católica del Ecuador, sede Manabí.
 
 ## Autores
 
@@ -12,9 +11,10 @@ Esta mejora se realizó en el contexto de la asignatura de Calidad de Software d
 
 Este caso práctico se centra en una corrección del código original para mejorar su funcionalidad y claridad. Se unieron las funciones de depósito y retiro en una sola función `update_balance`, simplificando así el código y evitando la duplicación de lógica.
 
-### Código Arreglado
+### Archivos
 
-El código arreglado se encuentra en el archivo `caso3.py`. Puedes revisar el código para obtener más detalles sobre la implementación corregida.
+- `caso3.py`: Código corregido con las mejoras implementadas.
+- `caso3original.py`: Código original en el que nos basamos para realizar las correcciones.
 
 ### Nueva Función y Uso de Interfaz
 
@@ -37,3 +37,4 @@ Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por fa
 ## Licencia
 
 Este proyecto está bajo la Licencia [MIT](https://opensource.org/licenses/MIT) - ver el archivo [LICENSE](LICENSE) para más detalles.
+
